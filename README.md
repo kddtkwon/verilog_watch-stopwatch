@@ -5,3 +5,6 @@ uart통신을 통해서도 제어 가능
 <img width="1189" height="429" alt="image" src="https://github.com/user-attachments/assets/f5a16233-8481-4e6d-a920-8644c77280b6" />
 <img width="1191" height="447" alt="image" src="https://github.com/user-attachments/assets/cab2e2e0-6fb8-412a-a361-a87ec17c2c32" />
 <img width="1313" height="703" alt="image" src="https://github.com/user-attachments/assets/91ea5d63-e296-450d-8023-84e39efc4e11" />
+<img width="1537" height="929" alt="image" src="https://github.com/user-attachments/assets/edf86982-31ca-42e1-8af5-1f6216cf14ce" />
+<img width="1396" height="456" alt="image" src="https://github.com/user-attachments/assets/8a9f5c13-dc59-4d54-b241-e981188d4b94" />
+
