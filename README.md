@@ -84,8 +84,8 @@ FND/LED 출력
 LED: 00001 (msec/sec), 00010 (min/hour)
 
 FND: 값 실시간 변화 확인
+<img width="1448" height="547" alt="image" src="https://github.com/user-attachments/assets/0b1ebdcb-fa8f-4f73-9268-99a0c1efdfb7" />
 
-<p align="center"> <img src="doc/sim_waveform.png" width="700" alt="Simulation Waveform"/> </p>
 🐞 Trouble Shooting
 문제	원인	해결
 sw0 ON 시 외부 입력 무반응	UART와 Stopwatch에서 Debounce 중복 적용	Debounce 처리 수정
