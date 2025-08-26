@@ -23,7 +23,8 @@ UART와 Stopwatch를 연결하여, 버튼/스위치뿐만 아니라 외부 입�
 4-digit 7-Segment Display
 
 Block Diagram
-<p align="center"> <img src="doc/block_diagram.png" width="600" alt="Block Diagram"/> </p>
+<img width="1205" height="439" alt="image" src="https://github.com/user-attachments/assets/0a1905c4-ec68-4ab9-a60f-c69020b50780" />
+
 
 구성 요소:
 
