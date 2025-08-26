@@ -17,17 +17,18 @@ UART와 Stopwatch를 연결하여, 버튼/스위치뿐 아니라 UART 입력으�
 버튼/스위치 제어와 동일하게 동작하도록 설계
 
 🏗️ 시스템 구성
-📟 하드웨어 스펙
+* 하드웨어 스펙
 
-🔘 16 User Switches
+* 16 User Switches
 
-💡 16 User LEDs
+* 16 User LEDs
 
-🔳 5 User Pushbuttons
+* 5 User Pushbuttons
 
-⏲️ 4-digit 7-Segment Display
+⏲* 4-digit 7-Segment Display
 
-📐 Block Diagram
+ 
+ Block Diagram
 <img width="1200" height="395" alt="image" src="https://github.com/user-attachments/assets/4d65ec94-0c50-46f8-b40d-f15cadef8583" />
 
 
