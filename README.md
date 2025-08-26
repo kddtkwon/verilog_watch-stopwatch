@@ -25,7 +25,7 @@ UART와 Stopwatch를 연결하여, 버튼/스위치뿐 아니라 UART 입력으�
 
 * 5 User Pushbuttons
 
-⏲* 4-digit 7-Segment Display
+* 4-digit 7-Segment Display
 
  
  Block Diagram
